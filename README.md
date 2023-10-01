@@ -4,3 +4,4 @@ Hardware: Arduino microcontroller, servo, 3x seven segment displays, 2x input po
 AutoCat_05.ino: final code update currently deployed in device.
 button_03.ino: test sequence for button press counting and debounce.
 Read more: https://jblevoy.wixsite.com/skunkworks/autocat
+Watch more: https://jblevoy.wixsite.com/skunkworks/autocat-video
